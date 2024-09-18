@@ -1,12 +1,15 @@
 ## Hi there in System Inventary 👋
 
-<!--
+## 🛠️ Tecnologías Utilizadas:
 
-**Here are some ideas to get you started:**
+### 🌐 Frontend:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+  <div style="display: flex; justify-content: start;">
+  <img src="https://icon.icepanel.io/Technology/svg/React.svg" alt="React" style="width: 50px; height: 50px; margin: 10px;">
+   <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" alt="Tailwind CSS" style="width: 50px; height: 50px; margin: 10px;">
+   <img src="https://www.vectorlogo.zone/logos/reactrouter/reactrouter-ar21.svg" alt="React Router" style="width: 100px; height: 50px; margin: 10px;">
+<img src="./public/FormHook.png" alt="React Hook Form Logo" width="64" height="64" />
+<img src='./public/ShadcnUI.svg' style="width: 50px; height: 50px; margin: 10px;">
+<img src='./public/zustand.png' style="width: 50px; height: 50px; margin: 10px;">
+
+  </div>    
