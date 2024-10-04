@@ -20,7 +20,7 @@
   <img src="https://icon.icepanel.io/Technology/svg/Java.svg" alt="Java" style="width: 50px; height: 50px; margin: 10px;">
   <img src="https://icon.icepanel.io/Technology/svg/Spring.svg" alt="Spring" style="width: 50px; height: 50px; margin: 10px;">
   <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" style="width: 50px; height: 50px; margin: 10px;">
-  <img src="https://icon.icepanel.io/Technology/svg/Heroku.svg" alt="Heroku" style="width: 50px; height: 50px; margin: 10px;">
+  <img src="https://skillicons.dev/icons?i=azure&perline=3" style="width: 50px; height: 50px; margin: 10px;">
   <img src="https://icon.icepanel.io/Technology/svg/Postman.svg" alt="Postman" style="width: 50px; height: 50px; margin: 10px;">
   <img src="https://icon.icepanel.io/Technology/svg/Hibernate.svg" alt="Hibernate" style="width: 50px; height: 50px; margin: 10px;">
 
