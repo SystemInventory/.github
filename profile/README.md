@@ -13,7 +13,7 @@
 <img src='./public/zustand.png' style="width: 50px; height: 50px; margin: 10px;">
   </div>    
   
-  ### 💅 Figma:
+  ### 💅 Diseño:
   
 <div style="display: flex; justify-content: start;">
    <img src="https://skillicons.dev/icons?i=figma&perline=3" style="width: 50px; height: 50px; margin: 10px;">
